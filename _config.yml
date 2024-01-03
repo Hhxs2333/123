@@ -105,5 +105,5 @@ deploy:
 
 deploy:
   type: git
-  repository: https://github.com/Hhxs2333/Hhxs.github.io.git  #你的仓库地址
+  repository: https://github.com/Hhxs2333/123.git  #你的仓库地址
   branch: master
